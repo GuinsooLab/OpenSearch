@@ -1,4 +1,10 @@
-<img src="https://opensearch.org/assets/img/opensearch-logo-themed.svg" height="64px">
+<div align="center">
+    <img src="./libs/OpenSearch.svg" alt="logo" width="120" />
+    <br />
+    <small>Open Search Engine | Powered By GuinsooLab</small>
+</div>
+
+# OpenSearch
 
 [![Chat](https://img.shields.io/badge/chat-on%20forums-blue)](https://forum.opensearch.org/c/opensearch/)
 [![Documentation](https://img.shields.io/badge/documentation-reference-blue)](https://opensearch.org/docs/latest/opensearch/index/)
